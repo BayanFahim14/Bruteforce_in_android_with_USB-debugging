@@ -6,7 +6,7 @@ This Python project simulates a brute force attack on an Android lock screen usi
 - PIN and alphanumeric password modes
 - Simulates Android's lock screen cooldown (30 sec delay rules)
 - Easy to run from PC
-- The log.txt will automatically reated to finding the alphanumeric password or pin
+- The log.txt will automatically created to finding the alphanumeric password or pin
 
 ## Requirements
 - Android phone with USB Debugging enabled

@@ -16,6 +16,6 @@ This Python project simulates a brute force attack on an Android lock screen usi
 ## Usage
 1. Connect Android phone via USB
 2. Run `python bruteforce.py`
-
+3. Keep the device turned on 
 ## Disclaimer
 Educational use only. Do not use on real or unauthorized devices.
